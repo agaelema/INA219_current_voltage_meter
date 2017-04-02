@@ -1,5 +1,4 @@
 /*
- * DC Power Meter - Basic Code
  * - Use one INA219, an i2c current monitor from TI
  * with 12 bit ADC, capable to monitor Voltage and
  * Current
@@ -7,7 +6,6 @@
  * switched to verify the current consumption
  * 
  * -------------------------------------------------
- * Medidor de Potência DC - Código Básico
  * - Utiliza um INA219, um monitor de corrente i2c
  * com um ADC de 12 bit, capaz de monitorar Tensão
  * e Corrente
