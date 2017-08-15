@@ -14,3 +14,8 @@ Repositório com alguns exemplos de uso da placa INA dc current sensor
 
 Inicialmente utilizando a biblioteca Adafruit
 * [Adafruit_INA219](https://github.com/adafruit/Adafruit_INA219)
+
+
+### DISCLAIMER
+
+This software is provided 'as is' with no explicit or implied warranties in respect of its properties, including, but not limited to, correctness and/or fitness for purpose.
