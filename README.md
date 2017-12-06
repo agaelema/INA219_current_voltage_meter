@@ -1,6 +1,6 @@
 # INA219_current_voltage_meter (english)
 
-![alt text](https://github.com/agaelema/INA219_current_voltage_meter/blob/master/Images/ina219-destque.JPG?raw=true " ")
+![alt text](https://github.com/agaelema/INA219_current_voltage_meter/blob/master/Arduino/ina219-destque.JPG?raw=true?raw=true " ")
 
 Repository with some examples of using the INA219 dc current sensor board.
 
@@ -8,7 +8,7 @@ Inittialy using the Adafruit library
 * [Adafruit_INA219](https://github.com/adafruit/Adafruit_INA219)
 
 * Basic Circuit
-![alt text](https://github.com/agaelema/INA219_current_voltage_meter/blob/master/Images/INA219_basic_circuit_bb_800.png?raw=true "Basic Circuit")
+![alt text](https://github.com/agaelema/INA219_current_voltage_meter/blob/master/Arduino/INA219_basic_circuit_bb_800.png?raw=true?raw=true "Basic Circuit")
 
 
 ---
