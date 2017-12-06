@@ -1,6 +1,6 @@
 # INA219_current_voltage_meter (english)
 
-![alt text](https://github.com/agaelema/INA219_current_voltage_meter/blob/master/Images/ina219-destque.jpg?raw=true " ")
+![alt text](https://github.com/agaelema/INA219_current_voltage_meter/blob/master/Images/ina219-destque.JPG?raw=true " ")
 
 Repository with some examples of using the INA219 dc current sensor board.
 
